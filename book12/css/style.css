@@ -1,0 +1,16 @@
+body{
+	background-color: #987;
+}
+
+H2 { text-align: center }
+H1 { text-align: center }
+body{
+	font-family: "Tahoma";
+}
+	p {
+font-weight: bold;
+}
+
+p{
+text-decoration: underline;
+}
