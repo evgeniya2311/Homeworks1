@@ -1,0 +1,47 @@
+* {
+    /* -webkit-box-sizing: border-box; */
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    background-color: #c6c6c6;
+    overflow: hidden;
+}
+
+.box {
+    margin: 25vh auto;
+    display: flex;
+    width: 1013px;
+    border: 1px solid #d7d7d7;
+    background-color: #ffffff;
+}
+
+.img {
+    display: inline-block;
+    margin: 65px 49px;
+}
+.headphones {
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.price {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text {
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: 95px;
+    align-self: auto;
+}
+
+button {
+    width: 254px;
+    height: 52px;
+    background-color: #ec744a;
+    font-size: 19px;
+    font-weight: bold;
+    color: #ffffff;
+}
