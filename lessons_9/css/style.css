@@ -1,0 +1,31 @@
+.container{
+    border: 1px solid gray;
+   
+    max-width: 1920px;
+       margin-left:auto;
+            height: 854px;
+     background-color: green;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 390px;
+    margin-top: 74px;
+    color: #95989a;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+}
+.row{
+    text-align: center;
+    font-family: 'Lobster', cursive;  
+}
+.back{
+            font-size: 20px;
+        font-weight: 400;
+        line-height: 26px;
+        margin-bottom: 16px; 
+        margin-left: 50px;
+       }
+}
