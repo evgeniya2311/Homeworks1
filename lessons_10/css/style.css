@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box
+}
+
+.p{
+    color: #9b1738;
+    font-family: Tahoma;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 70px;
+}
+.container {
+    margin-top: 82px;
+}
+.block {
+	text-align: center;
+}
+.text {
+    color: #333333;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: 700;
+}
+.img {
+	margin-bottom: 30 px;
+	min-height: 80 px;
+}
